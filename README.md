@@ -16,7 +16,7 @@ This project is part of the [The odin project](https://www.theodinproject.com/le
 
 ## Live Demo
 
-[Live Demo Link]
+[Live Demo Link](https://mrescappe.github.io/PROJECT-Sign-up/)
 
 ## Features
 
