@@ -8,9 +8,9 @@ This project is part of the [The odin project](https://www.theodinproject.com/le
 
 ## Preview
 
-<div style="text-align: center;">
+<div align="center">
 
-<img src="assets/preview.png" width="100%">
+<img src="assets/img/preview.png" alt="Preview"/>
 
 </div>
 
